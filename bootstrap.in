@@ -1,0 +1,14 @@
+alias 	 escreva_relatorio_hackerone='fabric --pattern 	escreva_relatorio_hackerone'	
+alias 	 extraia_ideias='fabric --pattern 	 	extraia_ideias'	
+alias 	 extraia_sabedoria='fabric --pattern 	 	extraia_sabedoria'	
+alias 	 resuma='fabric --pattern 	 		resuma'	
+alias 	 resuma_debate='fabric --pattern 	 	resuma_debate'	
+
+alias 	 summarize_legislation='fabric --pattern 	summarize_legislation'	
+alias 	 improve_writing='fabric --pattern 	 	improve_writing'	
+
+
+alias yten='yt --lang en'
+alias ytpt='yt --lang pt'
+alias yt='yt --lang pt'
+
