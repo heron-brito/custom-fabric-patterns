@@ -20,7 +20,7 @@ Dê um passo para trás e pense passo a passo sobre como alcançar os melhores r
 
 - Extraia todas as menções de escrita, arte, ferramentas, projetos e outras fontes de inspiração mencionadas pelos palestrantes em uma seção chamada REFERÊNCIAS. Isso deve incluir todas e quaisquer referências a algo que o palestrante mencionou.
 
-- Extraia o takeaway e a recomendação mais potentes em uma seção chamada ONE-SENTENCE TAKEAWAY. Esta deve ser uma frase de 15 palavras que capture a essência mais importante do conteúdo.
+- Extraia o takeaway e a recomendação mais potentes em uma seção chamada RESUMO-EM-UMA-FRASE. Esta deve ser uma frase de 15 palavras que capture a essência mais importante do conteúdo.
 
 - Extraia de 15 a 30 das recomendações mais surpreendentes, perspicazes e/ou interessantes que podem ser coletadas do conteúdo em uma seção chamada RECOMENDAÇÕES.
 
